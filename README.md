@@ -1,34 +1,34 @@
-Potato
+土豆
 ======
 
 [![Discord](https://i.imgur.com/HLPoNnY.png)](https://discord.gg/5hBDT2P)
 
-If you fork this you can say that you forked a potato.
+如果你叉这个，你可以说你叉了一个土豆。
 
-![potato](http://i.imgur.com/dRnvRZZ.jpg)
+![土豆](http://i.imgur.com/dRnvRZZ.jpg)
 
-Forking potatoes is an ancient and well-mannered tradition.
+分叉土豆是一种古老而有礼貌的传统。
 
-The potato first appeared in Peru about ten thousand years ago. The potato was an early food source, and likely a highly traded good in early South America. Having been traded for several thousand years, and enduring much artificial selection, the explorers of the sixteenth and seventeenth century brought the potato back to Europe, where the crop grew. Originally thought to be poisonous and evil, the crop didn't become a major food for another hundred years.
+大约一万年前，马铃薯首次出现在秘鲁。马铃薯是早期的食物来源，在南美洲早期可能是一种高度交易的商品。经过数千年的贸易，并经受了许多人为选择，16 世纪和 17 世纪的探险家将马铃薯带回了种植马铃薯的欧洲。原本被认为有毒和邪恶的作物，又过了一百年才成为主要食物。
 
-Following its introduction into China toward the end of the Ming dynasty in the seventeenth century, the potato immediately became a delicacy of the imperial family.
+17世纪明末传入中国后，马铃薯立即成为皇室美食。
 
-By the time potatoes were introduced into Europe, the fork was already prevalent. Hence, started the tradition of forking the potato.
+当土豆被引入欧洲时，叉子已经很普遍了。因此，开始了分叉土豆的传统。
 
-A lack of equal rights for potatoes led to a disease spreading between them and endangered the tradition of forking the potato in Ireland. Fortunately, other areas of the world maintained their healthy, diverse potatoes, and so the tradition lives on.
+马铃薯缺乏平等权利导致疾病在他们之间传播，并危及爱尔兰分叉马铃薯的传统。幸运的是，世界其他地区保持着健康、多样化的马铃薯，因此这一传统得以延续。
 
-You too can continue this tradition of forking potatoes in the modern age by clicking the button above labeled "fork."
+您也可以通过单击上面标有“叉子”的按钮，在现代继续这种叉土豆的传统。
 
-Pull Requests
+拉取请求
 -------------
 
-If you have forked the potato and are looking to submit a pull request, please adhere to the following rules.
+如果您已经分叉了土豆并希望提交拉取请求，请遵守以下规则。
 
-- Our potato is lightweight, and it doesn't need non-potato-related items.
-- If you are adding code to the potato, please follow the lightweight mantra (no * imports, etc.).
-- Make sure that your code compiles and runs, if you are changing code.
-- Please format your code.
-- Our potato is a mainstream potato; it doesn't enjoy being full of obscure code/references (not a hipster potato).
-- Please "mash your potatoes" (squash your PRs with interactive rebase).
-- If a comment inquiring for more information is made on your PR, a reply is expected within a week. The request will be closed if not.
-- To stress: **no non-potato-related items**.
+- 我们的土豆很轻，不需要非土豆相关的物品。
+- 如果您正在向土豆添加代码，请遵循轻量级的口头禅（无 * 导入等）。
+- 如果您正在更改代码，请确保您的代码编译并运行。
+- 请格式化您的代码。
+- 我们的土豆是主流土豆；它不喜欢充满晦涩的代码/参考（不是时髦的土豆）。
+- 请“捣碎你的土豆”（用交互式 rebase 压扁你的 PR）。
+- 如果您的 PR 上有评论询问更多信息，预计一周内会有回复。如果没有，请求将被关闭。
+- 强调：**没有非马铃薯相关物品**。
